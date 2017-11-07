@@ -4,7 +4,7 @@
 ### How to run the code
 
 - Clone this repository
-- Type the following code on your terminal: `pip -r requirements.txt`
+- Type the following code on your terminal: `pip install -r requirements.txt`
 - Then type: `jupyter notebook`
 
 A tab in your browser will open. You can now run the code in the `survey-analyses.ipynb`.
